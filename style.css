@@ -1,0 +1,6 @@
+body { margin: 0; background: #ffffff; color: #1f2328; font-family: system-ui, -apple-system, "Segoe UI", "Hiragino Sans", "Yu Gothic UI", sans-serif; line-height: 1.8; }
+main { max-width: 720px; margin: 0 auto; padding: 32px 16px 64px; }
+h1 { font-size: 1.6rem; line-height: 1.4; }
+h2 { font-size: 1.15rem; margin-top: 2rem; }
+a { color: #0b57d0; }
+hr { border: 0; border-top: 1px solid #d0d7de; margin: 2rem 0; }
